@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2010\Projects\richh txt box task\richh txt box task\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\richh txt box task\richh txt box task\obj\x86\Debug\richh_txt_box_task.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\richh txt box task\richh txt box task\obj\x86\Debug\richh_txt_box_task.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\richh txt box task\richh txt box task\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\user\documents\visual studio 2010\Projects\richh txt box task\richh txt box task\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\user\documents\visual studio 2010\Projects\richh txt box task\richh txt box task\bin\Debug\richh txt box task.exe
+c:\users\user\documents\visual studio 2010\Projects\richh txt box task\richh txt box task\bin\Debug\richh txt box task.pdb
+c:\users\user\documents\visual studio 2010\Projects\richh txt box task\richh txt box task\obj\x86\Debug\richh txt box task.exe
+c:\users\user\documents\visual studio 2010\Projects\richh txt box task\richh txt box task\obj\x86\Debug\richh txt box task.pdb
